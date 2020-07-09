@@ -1,3 +1,3 @@
-# manwaring
+# Hello!
 
-I'm a serverless architect and developer.  I prefer TypeScript > JavaScript > Java.  IaC all the things.
+I'm a serverless architect and developer, using managed services first and FaaS when necessary to experiment and solve business problems as quickly and effectively as I can with the least amount of operational overhead possible.  I prefer TypeScript > JavaScript > Java.  IaC and automate all the things!
