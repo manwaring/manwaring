@@ -6,4 +6,4 @@ Some of my favorite tools include AWS (duh), CircleCI, and the Serverless Framew
 
 I'd love to connect and talk serverless shop!
 
-<img height="0" src="https://t2bgjnz1g5.execute-api.us-east-1.amazonaws.com/v1/readme/visits/github/manwaring/manwaring?style=flat-square">
+<img height="0" src="https://b7z7o7y5fi.execute-api.us-east-1.amazonaws.com/v1/readme/visits/github/manwaring/manwaring?style=flat-square">
