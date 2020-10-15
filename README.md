@@ -4,7 +4,7 @@ I'm a serverless architect and developer, using managed services first and FaaS 
 
 Some of my favorite tools include AWS, CircleCI, and the Serverless Framework. I recently started working with Jeremy Daly's [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox) library and I'm loving it - it's the best library I've found to simplify working with single-table designs.
 
-I'm really proud of the applications and libraries that I've pinned below. I built each one in response to challenges that were (as far as I could tell) unsolved at the time, and after reusing them on a handful of projects I decided to publish them in the hopes that others could benefit as well. I aim to be as responsive as possible to issues and suggestions and I'm always looking for collaborators to work with - you can find me on [Twitter @ philmanwaring](https://twitter.com/philmanwaring) or [LinkedIn](https://www.linkedin.com/in/phillipmanwaring/) if you want to connect.
+I'm really proud of the applications and libraries that I've pinned below. I built each one in response to challenges that were (as far as I could tell) unsolved at the time, and after reusing them on a handful of projects I decided to publish them in the hopes that others could benefit as well. I aim to be as responsive as possible to issues and suggestions and I'm always looking for collaborators to work with - you can find me on [Twitter](https://twitter.com/philmanwaring) or [LinkedIn](https://www.linkedin.com/in/phillipmanwaring/) if you want to connect.
 
 Happy coding!
 
