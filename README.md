@@ -1,4 +1,4 @@
-# Hello!
+# Hello! <img height="0" src="https://b7z7o7y5fi.execute-api.us-east-1.amazonaws.com/v1/readme/visits/github/manwaring/manwaring?style=flat-square">
 
 I'm a serverless architect and developer, using managed services first and FaaS when necessary to experiment and solve business problems as quickly and effectively as I can with the least amount of operational overhead possible. I prefer TypeScript > JavaScript > Java. IaC and automate all the things!
 
